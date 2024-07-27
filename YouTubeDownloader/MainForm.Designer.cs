@@ -72,7 +72,7 @@
             labelStatus.BackColor = Color.Transparent;
             labelStatus.Font = new Font("Sitka Small", 9.75F, FontStyle.Bold, GraphicsUnit.Point);
             labelStatus.ForeColor = SystemColors.Control;
-            labelStatus.Location = new Point(353, 152);
+            labelStatus.Location = new Point(401, 149);
             labelStatus.Name = "labelStatus";
             labelStatus.Size = new Size(0, 19);
             labelStatus.TabIndex = 3;
